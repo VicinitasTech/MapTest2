@@ -129,7 +129,8 @@
             "dma1": "Albuquerque-Santa Fe, NM",
             "cableperc": 38.9,
             "adsperc": 44.8,
-            "longitude": -106.526644
+            "longitude": -106.526644,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -586,7 +587,8 @@
             "dma1": "Billings, MT",
             "cableperc": 51.9,
             "adsperc": 34.2,
-            "longitude": -108.195493
+            "longitude": -108.195493,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -724,7 +726,8 @@
             "dma1": "Boise, ID",
             "cableperc": 24.7,
             "adsperc": 46.2,
-            "longitude": -117.0232835
+            "longitude": -117.0232835,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -1003,7 +1006,8 @@
             "dma1": "Butte-Bozeman, MT",
             "cableperc": 42.5,
             "adsperc": 39.6,
-            "longitude": -112.3609785
+            "longitude": -112.3609785,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -1032,7 +1036,8 @@
             "dma1": "Casper-Riverton, WY",
             "cableperc": 60.3,
             "adsperc": 31.6,
-            "longitude": -107.4728085
+            "longitude": -107.4728085,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -1269,7 +1274,8 @@
             "dma1": "Cheyenne, WY-Scottsbluff, NE",
             "cableperc": 61.6,
             "adsperc": 30.8,
-            "longitude": -104.3206125
+            "longitude": -104.3206125,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -1450,7 +1456,8 @@
             "dma1": "Colorado Springs-Pueblo, CO",
             "cableperc": 43.6,
             "adsperc": 43.5,
-            "longitude": -104.0271685
+            "longitude": -104.0271685,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -1835,7 +1842,8 @@
             "dma1": "Denver, CO",
             "cableperc": 48.9,
             "adsperc": 41.1,
-            "longitude": -108.925452
+            "longitude": -108.925452,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -2531,7 +2539,8 @@
             "dma1": "Glendive, MT",
             "cableperc": 68.6,
             "adsperc": 26,
-            "longitude": -105.065505
+            "longitude": -105.065505,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -2561,7 +2570,8 @@
             "dma1": "Grand Junction-Montrose, CO",
             "cableperc": 52.8,
             "adsperc": 32.5,
-            "longitude": -108.2153545
+            "longitude": -108.2153545,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -2618,7 +2628,8 @@
             "dma1": "Great Falls, MT",
             "cableperc": 47.3,
             "adsperc": 41.2,
-            "longitude": -109.9362935
+            "longitude": -109.9362935,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -3080,7 +3091,8 @@
             "dma1": "Helena, MT",
             "cableperc": 54.8,
             "adsperc": 28.3,
-            "longitude": -112.3319335
+            "longitude": -112.3319335,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -3233,7 +3245,8 @@
             "dma1": "Idaho Falls-Pocatello, ID",
             "cableperc": 32.7,
             "adsperc": 47.7,
-            "longitude": -112.6765315
+            "longitude": -112.6765315,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -4712,7 +4725,8 @@
             "dma1": "Missoula, MT",
             "cableperc": 37.1,
             "adsperc": 46.5,
-            "longitude": -114.464452
+            "longitude": -114.464452,
+            "fill":  "#ffffff"
           }
         },
         {
