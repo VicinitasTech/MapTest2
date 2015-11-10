@@ -8573,7 +8573,8 @@
             "dma1": "Twin Falls, ID",
             "cableperc": 34.4,
             "adsperc": 47.2,
-            "longitude": -114.043651
+            "longitude": -114.043651,
+            "fill":  "#ffffff"
           }
         },
         {
