@@ -3739,7 +3739,8 @@
             "dma1": "Las Vegas, NV",
             "cableperc": 63.1,
             "adsperc": 29.8,
-            "longitude": -116.121556
+            "longitude": -116.121556,
+            "fill": "#3333CC"
           }
         },
         {
@@ -3931,7 +3932,8 @@
             "dma1": "Los Angeles, CA",
             "cableperc": 52.6,
             "adsperc": 35.3,
-            "longitude": -116.858513
+            "longitude": -116.858513,
+            "fill": "#3333CC"
           }
         },
         {
@@ -6316,7 +6318,7 @@
             "cableperc": 48.2,
             "adsperc": 38.8,
             "longitude": -111.899851,
-            "fill": "#007255"
+            "fill": "#009900"
           }
         },
         {
@@ -7048,7 +7050,8 @@
             "dma1": "Sacramento-Stockton-Modesto, CA",
             "cableperc": 52.2,
             "adsperc": 39.6,
-            "longitude": -120.9905465
+            "longitude": -120.9905465,
+            "fill": "#3333CC"
           }
         },
         {
@@ -7270,7 +7273,8 @@
             "dma1": "San Francisco-Oakland-San Jose, CA",
             "cableperc": 65,
             "adsperc": 28.3,
-            "longitude": -122.6193155
+            "longitude": -122.6193155,
+            "fill": "#3333CC"
           }
         },
         {
@@ -7625,7 +7629,8 @@
             "dma1": "Seattle-Tacoma, WA",
             "cableperc": 72.8,
             "adsperc": 21.3,
-            "longitude": -121.842349
+            "longitude": -121.842349,
+            "fill": "#3333CC"
           }
         },
         {
