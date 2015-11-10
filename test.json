@@ -7630,7 +7630,8 @@
             "cableperc": 72.8,
             "adsperc": 21.3,
             "longitude": -121.842349,
-            "fill": "#191966"
+            "fill": "#191966",
+            "fill-opacity":  0.7
           }
         },
         {
