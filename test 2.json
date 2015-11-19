@@ -2207,7 +2207,8 @@
             "dma1": "Evansville, IN",
             "cableperc": 49.3,
             "adsperc": 40.9,
-            "longitude": -87.5662395
+            "longitude": -87.5662395,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -7994,7 +7995,8 @@
             "dma1": "St. Louis, MO",
             "cableperc": 50.5,
             "adsperc": 39.7,
-            "longitude": -90.169254
+            "longitude": -90.169254,
+            "fill":  "#ffffff"
           }
         },
         {
