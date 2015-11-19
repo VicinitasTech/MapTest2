@@ -668,7 +668,10 @@
             "dma1": "Birmingham (Anniston and Tuscaloosa), AL",
             "cableperc": 48.7,
             "adsperc": 45.3,
-            "longitude": -86.869635
+            "longitude": -86.869635,
+            "fill": "#3333CC",
+            "fill-opacity":  0.5
+
           }
         },
         {
@@ -1207,7 +1210,9 @@
             "dma1": "Charlotte, NC",
             "cableperc": 58.5,
             "adsperc": 34.8,
-            "longitude": -80.76953
+            "longitude": -80.76953,
+            "fill": "#3333CC",
+            "fill-opacity":  0.5
           }
         },
         {
@@ -2898,7 +2903,8 @@
             "cableperc": 46,
             "adsperc": 47.2,
             "longitude": -82.697701,
-            "fill": "#009900"
+            "fill": "#3333CC",
+            "fill-opacity":  0.5
           }
         },
         {
@@ -4962,7 +4968,9 @@
             "dma1": "Nashville, TN",
             "cableperc": 56.7,
             "adsperc": 36.5,
-            "longitude": -86.631128
+            "longitude": -86.631128,
+            "fill": "#3333CC",
+            "fill-opacity":  0.5
           }
         },
         {
