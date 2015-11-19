@@ -157,7 +157,8 @@
             "dma1": "Alexandria, LA",
             "cableperc": 54.4,
             "adsperc": 38.8,
-            "longitude": -92.61795
+            "longitude": -92.61795,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -507,7 +508,8 @@
             "dma1": "Baton Rouge, LA",
             "cableperc": 69.4,
             "adsperc": 25.5,
-            "longitude": -91.140946
+            "longitude": -91.140946,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -611,7 +613,8 @@
             "dma1": "Biloxi-Gulfport, MS",
             "cableperc": 68.1,
             "adsperc": 25.2,
-            "longitude": -88.868398
+            "longitude": -88.868398,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -694,7 +697,8 @@
             "dma1": "Bluefield-Beckley-Oak Hill, WV",
             "cableperc": 63.1,
             "adsperc": 33.4,
-            "longitude": -80.978172
+            "longitude": -80.978172,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -893,7 +897,8 @@
             "dma1": "Bowling Green, KY",
             "cableperc": 71,
             "adsperc": 20.6,
-            "longitude": -85.99226
+            "longitude": -85.99226,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -1179,7 +1184,8 @@
             "dma1": "Charleston-Huntington, WV",
             "cableperc": 53.7,
             "adsperc": 41.2,
-            "longitude": -82.039491
+            "longitude": -82.039491,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -1231,7 +1237,8 @@
             "dma1": "Charlottesville, VA",
             "cableperc": 51.3,
             "adsperc": 35.5,
-            "longitude": -78.4610955
+            "longitude": -78.4610955,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -1395,7 +1402,8 @@
             "dma1": "Clarksburg-Weston, WV",
             "cableperc": 54.2,
             "adsperc": 42,
-            "longitude": -80.309074
+            "longitude": -80.309074,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -2395,7 +2403,8 @@
             "dma1": "Ft. Myers-Naples, FL",
             "cableperc": 62.5,
             "adsperc": 33.5,
-            "longitude": -81.6230635
+            "longitude": -81.6230635,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -2423,7 +2432,8 @@
             "dma1": "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
             "cableperc": 51.1,
             "adsperc": 38.7,
-            "longitude": -94.202877
+            "longitude": -94.202877,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -2711,7 +2721,8 @@
             "dma1": "Greensboro-High Point-Winston Salem, NC",
             "cableperc": 58.9,
             "adsperc": 33.5,
-            "longitude": -80.4077355
+            "longitude": -80.4077355,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -2860,7 +2871,8 @@
             "dma1": "Greenville-New Bern-Washington, NC",
             "cableperc": 53.7,
             "adsperc": 35.7,
-            "longitude": -76.9754245
+            "longitude": -76.9754245,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -2927,7 +2939,8 @@
             "dma1": "Greenwood-Greenville, MS",
             "cableperc": 58.9,
             "adsperc": 35.1,
-            "longitude": -90.4836365
+            "longitude": -90.4836365,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -3015,7 +3028,8 @@
             "dma1": "Harrisonburg, VA",
             "cableperc": 58.4,
             "adsperc": 33.9,
-            "longitude": -79.0679395
+            "longitude": -79.0679395,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -3072,7 +3086,8 @@
             "dma1": "Hattiesburg-Laurel, MS",
             "cableperc": 49.3,
             "adsperc": 42.9,
-            "longitude": -89.2449615
+            "longitude": -89.2449615,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -3323,7 +3338,8 @@
             "dma1": "Jackson, MS",
             "cableperc": 40.7,
             "adsperc": 51.5,
-            "longitude": -90.485657
+            "longitude": -90.485657,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -3487,7 +3503,8 @@
             "dma1": "Jonesboro, AR",
             "cableperc": 60.5,
             "adsperc": 31.8,
-            "longitude": -91.1294975
+            "longitude": -91.1294975,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -3658,7 +3675,8 @@
             "dma1": "Lafayette, LA",
             "cableperc": 58.3,
             "adsperc": 34.7,
-            "longitude": -92.1119525
+            "longitude": -92.1119525,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -3681,7 +3699,8 @@
             "dma1": "Lake Charles, LA",
             "cableperc": 64.7,
             "adsperc": 29.3,
-            "longitude": -93.2619725
+            "longitude": -93.2619725,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -3804,7 +3823,8 @@
             "dma1": "Lexington, KY",
             "cableperc": 49,
             "adsperc": 42.8,
-            "longitude": -83.9929735
+            "longitude": -83.9929735,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -3892,7 +3912,8 @@
             "dma1": "Little Rock-Pine Bluff, AR",
             "cableperc": 43.3,
             "adsperc": 48.7,
-            "longitude": -92.670434
+            "longitude": -92.670434,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -3981,7 +4002,8 @@
             "dma1": "Louisville, KY",
             "cableperc": 62.1,
             "adsperc": 28.2,
-            "longitude": -85.7750445
+            "longitude": -85.7750445,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -4196,7 +4218,8 @@
             "dma1": "Memphis, TN",
             "cableperc": 50,
             "adsperc": 41.3,
-            "longitude": -89.757956
+            "longitude": -89.757956,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -4604,7 +4627,8 @@
             "dma1": "Miami-Fort Lauderdale, FL",
             "cableperc": 69.9,
             "adsperc": 26.5,
-            "longitude": -80.940626
+            "longitude": -80.940626,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -4826,7 +4850,8 @@
             "dma1": "Monroe, LA-El Dorado, AR",
             "cableperc": 46,
             "adsperc": 47,
-            "longitude": -91.9321725
+            "longitude": -91.9321725,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -4914,7 +4939,8 @@
             "dma1": "Myrtle Beach-Florence, SC",
             "cableperc": 66.6,
             "adsperc": 25.2,
-            "longitude": -79.419767
+            "longitude": -79.419767,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -5559,7 +5585,8 @@
             "dma1": "New Orleans, LA",
             "cableperc": 60.2,
             "adsperc": 33.5,
-            "longitude": -90.0824885
+            "longitude": -90.0824885,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -5839,7 +5866,8 @@
             "dma1": "Norfolk-Portsmouth-Newport News, VA",
             "cableperc": 69.5,
             "adsperc": 23.1,
-            "longitude": -76.3720915
+            "longitude": -76.3720915,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -6016,7 +6044,8 @@
             "dma1": "Orlando-Daytona Beach-Melbourne, FL",
             "cableperc": 69.1,
             "adsperc": 26.2,
-            "longitude": -81.4963015
+            "longitude": -81.4963015,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -6078,7 +6107,8 @@
             "dma1": "Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
             "cableperc": 36.6,
             "adsperc": 55.2,
-            "longitude": -89.497325
+            "longitude": -89.497325,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -6167,7 +6197,8 @@
             "dma1": "Parkersburg, WV",
             "cableperc": 72,
             "adsperc": 23.4,
-            "longitude": -81.4306435
+            "longitude": -81.4306435,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -6767,7 +6798,8 @@
             "dma1": "Raleigh-Durham (Fayetteville), NC",
             "cableperc": 55.6,
             "adsperc": 35.1,
-            "longitude": -78.4212995
+            "longitude": -78.4212995,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -6885,7 +6917,8 @@
             "dma1": "Richmond-Petersburg, VA",
             "cableperc": 56.1,
             "adsperc": 35.6,
-            "longitude": -77.5349825
+            "longitude": -77.5349825,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -6924,7 +6957,8 @@
             "dma1": "Roanoke-Lynchburg, VA",
             "cableperc": 40.6,
             "adsperc": 49.8,
-            "longitude": -79.9113685
+            "longitude": -79.9113685,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -7720,7 +7754,8 @@
             "dma1": "Shreveport, LA",
             "cableperc": 37.3,
             "adsperc": 55.2,
-            "longitude": -94.0138375
+            "longitude": -94.0138375,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -8273,7 +8308,8 @@
             "dma1": "Tampa-St. Petersburg (Sarasota), FL",
             "cableperc": 78.9,
             "adsperc": 14.7,
-            "longitude": -81.8973955
+            "longitude": -81.8973955,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -8518,7 +8554,8 @@
             "dma1": "Tri-Cities, TN-VA",
             "cableperc": 56.5,
             "adsperc": 37.5,
-            "longitude": -82.468517
+            "longitude": -82.468517,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -8901,7 +8938,8 @@
             "dma1": "West Palm Beach-Ft. Pierce, FL",
             "cableperc": 71.6,
             "adsperc": 26.8,
-            "longitude": -80.6271745
+            "longitude": -80.6271745,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -8933,7 +8971,8 @@
             "dma1": "Wheeling, WV-Steubenville, OH",
             "cableperc": 69.8,
             "adsperc": 24.6,
-            "longitude": -81.0435735
+            "longitude": -81.0435735,
+            "fill":  "#ffffff"
           }
         },
         {
@@ -9137,7 +9176,8 @@
             "dma1": "Wilmington, NC",
             "cableperc": 62.4,
             "adsperc": 30.2,
-            "longitude": -78.294559
+            "longitude": -78.294559,
+            "fill":  "#ffffff"
           }
         },
         {
