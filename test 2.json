@@ -66,9 +66,7 @@
             "dma1": "Albany, GA",
             "cableperc": 50.9,
             "adsperc": 42.6,
-            "longitude": -83.7121235,
-            "fill": "#009900"
-
+            "longitude": -83.7121235
           }
         },
         {
@@ -239,7 +237,8 @@
             "dma1": "Atlanta, GA",
             "cableperc": 55.7,
             "adsperc": 38.7,
-            "longitude": -84.3335135
+            "longitude": -84.3335135,
+            "fill": "#009900"
           }
         },
         {
@@ -270,8 +269,7 @@
             "dma1": "Augusta, GA",
             "cableperc": 56.3,
             "adsperc": 34.1,
-            "longitude": -81.9064505,
-            "fill": "#009900"
+            "longitude": -81.9064505
           }
         },
         {
@@ -671,7 +669,6 @@
             "longitude": -86.869635,
             "fill": "#3333CC",
             "fill-opacity":  0.5
-
           }
         },
         {
@@ -1145,8 +1142,7 @@
             "dma1": "Charleston, SC",
             "cableperc": 63.7,
             "adsperc": 28.9,
-            "longitude": -80.042272,
-            "fill": "#009900"
+            "longitude": -80.042272
           }
         },
         {
@@ -1260,8 +1256,7 @@
             "dma1": "Chattanooga, TN",
             "cableperc": 58.6,
             "adsperc": 33.2,
-            "longitude": -84.7884855,
-            "fill": "#009900"
+            "longitude": -84.7884855
           }
         },
         {
@@ -1497,8 +1492,7 @@
             "dma1": "Columbia, SC",
             "cableperc": 50.5,
             "adsperc": 38.8,
-            "longitude": -80.9102195,
-            "fill": "#009900"
+            "longitude": -80.9102195
           }
         },
         {
@@ -1563,8 +1557,7 @@
             "dma1": "Columbus, GA",
             "cableperc": 66.6,
             "adsperc": 27.2,
-            "longitude": -84.8353915,
-            "fill": "#009900"
+            "longitude": -84.8353915
           }
         },
         {
@@ -1626,8 +1619,7 @@
             "dma1": "Columbus-Tupelo-West Point, MS",
             "cableperc": 31.6,
             "adsperc": 59.3,
-            "longitude": -88.939003,
-            "fill": "#009900"
+            "longitude": -88.939003
           }
         },
         {
@@ -1990,8 +1982,7 @@
             "dma1": "Dothan, AL",
             "cableperc": 54.3,
             "adsperc": 37.5,
-            "longitude": -85.412413,
-            "fill": "#009900"
+            "longitude": -85.412413
           }
         },
         {
@@ -2526,8 +2517,7 @@
             "dma1": "Gainesville, FL",
             "cableperc": 56.6,
             "adsperc": 33.9,
-            "longitude": -82.7294775,
-            "fill": "#009900"
+            "longitude": -82.7294775
           }
         },
         {
@@ -3220,8 +3210,7 @@
             "dma1": "Huntsville-Decatur (Florence), AL",
             "cableperc": 56.8,
             "adsperc": 36.6,
-            "longitude": -86.8583345,
-            "fill": "#009900"
+            "longitude": -86.8583345
           }
         },
         {
@@ -3358,8 +3347,7 @@
             "dma1": "Jackson, TN",
             "cableperc": 59.7,
             "adsperc": 32.6,
-            "longitude": -88.530231,
-            "fill": "#009900"
+            "longitude": -88.530231
           }
         },
         {
@@ -3444,8 +3432,7 @@
             "dma1": "Jacksonville, FL",
             "cableperc": 58.4,
             "adsperc": 34.3,
-            "longitude": -82.006576,
-            "fill": "#009900"
+            "longitude": -82.006576
           }
         },
         {
@@ -3588,8 +3575,7 @@
             "dma1": "Knoxville, TN",
             "cableperc": 57.9,
             "adsperc": 34.9,
-            "longitude": -84.0422025,
-            "fill": "#009900"
+            "longitude": -84.0422025
           }
         },
         {
@@ -4053,8 +4039,7 @@
             "dma1": "Macon, GA",
             "cableperc": 49.6,
             "adsperc": 44.3,
-            "longitude": -83.3190475,
-            "fill": "#009900"
+            "longitude": -83.3190475
           }
         },
         {
@@ -4239,8 +4224,7 @@
             "dma1": "Meridian, MS",
             "cableperc": 34.6,
             "adsperc": 53.7,
-            "longitude": -88.5817905,
-            "fill": "#009900"
+            "longitude": -88.5817905
           }
         },
         {
@@ -4803,8 +4787,7 @@
             "dma1": "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
             "cableperc": 51.7,
             "adsperc": 39.8,
-            "longitude": -87.6151775,
-            "fill": "#009900"
+            "longitude": -87.6151775
           }
         },
         {
@@ -4899,8 +4882,7 @@
             "dma1": "Montgomery-Selma, AL",
             "cableperc": 64,
             "adsperc": 30.4,
-            "longitude": -86.7675715,
-            "fill": "#009900"
+            "longitude": -86.7675715
           }
         },
         {
@@ -6159,8 +6141,7 @@
             "dma1": "Panama City, FL",
             "cableperc": 63,
             "adsperc": 27.8,
-            "longitude": -85.3696325,
-            "fill": "#009900"
+            "longitude": -85.3696325
           }
         },
         {
@@ -7463,8 +7444,7 @@
             "dma1": "Savannah, GA",
             "cableperc": 58.7,
             "adsperc": 37.3,
-            "longitude": -81.6330685,
-            "fill": "#009900"
+            "longitude": -81.6330685
           }
         },
         {
@@ -8037,8 +8017,7 @@
             "dma1": "Tallahassee, FL-Thomasville, GA",
             "cableperc": 55.1,
             "adsperc": 38.6,
-            "longitude": -83.675708,
-            "fill": "#009900"
+            "longitude": -83.675708
           }
         },
         {
